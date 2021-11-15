@@ -1,3 +1,5 @@
+Nest Js 가 무엇이고 어떻게 쓰는지 간단히 사용해볼 예정입니다.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
